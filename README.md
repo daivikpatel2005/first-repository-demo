@@ -1,7 +1,7 @@
 # first-repository-demo
 
 <h1 align="center">Hi 👋, I'm Daivik Patel</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/daivikpatel2005?tab=repositories](https://github.com/daivikpatel2005?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/daivikpatel2005?tab=repositories]
 
 - 📝 I regularly write articles on [www.linkedin.com/in/daivik-patel-2b4a532b6](www.linkedin.com/in/daivik-patel-2b4a532b6)
 - 💬 Ask me about **currently studying in KD Polytechnic Patan**
